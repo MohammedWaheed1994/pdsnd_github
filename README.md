@@ -5,7 +5,9 @@ This project is created and updated as practice project for python coding in 11t
 ### Bikeshare data analysis
 
 #### Description
-This project is implemented using python programming language to analysis and provide several data regarding bikes in Chicago, New york city and Washington.
+* This project is implemented using python programming language to analysis and provide several data regarding bikes in Chicago, New york city and Washington.
+
+* It is an interactive script.
 
 ### Files used
 I have used the csv files provided from "motivate" platform.
